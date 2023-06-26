@@ -68,7 +68,7 @@
 
 ## Demo
 
-Visit [http://visualalchemist.prahladyeri.com](http://visualalchemist.prahladyeri.com) to see a live demo of how this app works.
+Visit [https://prahladyeri.github.io/VisualAlchemist](https://prahladyeri.github.io/VisualAlchemist) to see a live demo of how this app works.
 
 ## Installation
 
